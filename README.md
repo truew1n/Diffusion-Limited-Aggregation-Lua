@@ -1,5 +1,6 @@
 # Diffusion Limited Aggregation
-Made with Lua using LÖVE framework
+Made with Lua using LÖVE framework.
+!!!Naive solution!!!
 
 # Examples
 ## Example 1:
